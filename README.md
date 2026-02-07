@@ -7,7 +7,7 @@ O foco principal foi reproduzir a fidelidade visual das telas de login e home, u
 ## 📱 Screenshots
 
 <div align="center">
-   <img src="assets/images/screenshotTela.jpg" width="300" alt="Tela Inicial do Twitter Clone" />
+   <img src="assets/images/screenshotTela.jpg"  alt="Tela Inicial do Twitter Clone" />
 </div>
 
 ## 🛠️ Tecnologias Utilizadas
